@@ -87,23 +87,8 @@ int RandNum = 0;
 
 RTC_DS3231 rtc; // Setting up RTC
 
-//const char quotesFromEveryone[3][50] PROGMEM = {"get home safe - Mian", "shh bbg - ntd", "take a lil break and watch an anime ep, you'll feel better - Do"};
-const char s0[] PROGMEM = "get home safe\n- Mian";
-const char s1[] PROGMEM = "shh bbg\n- ntd";
-const char s2[] PROGMEM = "take a lil break and\nwatch an anime ep,\nyou'll feel better\n- Do";
-const char s3[] PROGMEM = "are numbers even real\n- mnlt";
-const char s4[] PROGMEM = "why do fuck and nail\nmean the same when\nyour mom, but when\nexams\n- mnlt";
-const char s5[] PROGMEM = "it is not you who is\na simp, the simp is\nborn within you\n- ntd";
-const char s6[] PROGMEM = "i'm not gay but 5$ is\n5$\n- yiank";
-const char s7[] PROGMEM = "do not go gentle into\nthat good night,";
-const char s8[] PROGMEM = "old age should burn\nand rave at close of\nday;";
-const char s9[] PROGMEM = "rage, rage against\nthe dying of the\nlight.\n- Dylan Thomas";
-const char s10[] PROGMEM = "why do you need a\ngirlfriend when you\ncan become girlfriend\n- khoachad";
-const char s11[] PROGMEM = "tim femboi trong ban\nkinh 5km gan nha\n- ntd";
-const char s12[] PROGMEM = "the first and best\nvictory is to conquer\nself\n- kiets1tg";
-const char s13[] PROGMEM = "life is a d.\nit goes up sometimes and down other times\nbut it won't be hard\nforever\n- kiets1tg";
-const char s14[] PROGMEM = "start where you are,\nknow what you have,\ndo what you can\n- Arthur Ashe/Mrs.\nBinh";
-const char s15[] PROGMEM = "tell your heart that\nthe fear of suffering\nis worse than\nsuffering itself\n- Paul Coelho";
+const char s0[] PROGMEM = "Insert your own quotes here - Redacted for privacy reasons";
+
 
 
 const char* const string_table[] PROGMEM = {s0, s1, s2, s3, s4, s5, s6, s7, s8, s9, s10, s11, s12, s13, s14, s15};
