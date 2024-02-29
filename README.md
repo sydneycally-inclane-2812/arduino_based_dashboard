@@ -1,7 +1,5 @@
 # Arduino Dashboard
 
-!Arduino Logo
-
 This project allows you to work with time using the RTC DS3231 module, and displaying information to an OLED screen. An IR sensor, PIR motion detector and smoke detector is also used for home security. An RGB LED module is also connected as a light alert indicator and low-power light source at night. The interface is split into 4 separate tabs, toggled with touch sensors. The LED and OLED modules are also toggleable for better longevity.
 
 ## Features
